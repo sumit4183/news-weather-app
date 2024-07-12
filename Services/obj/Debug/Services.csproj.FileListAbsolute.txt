@@ -1,0 +1,10 @@
+C:\New folder\Services\bin\Services.dll.config
+C:\New folder\Services\bin\Services.dll
+C:\New folder\Services\bin\Services.pdb
+C:\New folder\Services\bin\Newtonsoft.Json.dll
+C:\New folder\Services\bin\Newtonsoft.Json.xml
+C:\New folder\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\New folder\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\New folder\Services\obj\Debug\Services.csproj.CopyComplete
+C:\New folder\Services\obj\Debug\Services.dll
+C:\New folder\Services\obj\Debug\Services.pdb

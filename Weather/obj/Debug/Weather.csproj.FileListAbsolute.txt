@@ -1,0 +1,152 @@
+C:\New folder\Weather\bin\Weather.dll.config
+C:\New folder\Weather\bin\Weather.dll
+C:\New folder\Weather\bin\Weather.pdb
+C:\New folder\Weather\bin\roslyn\csc.exe
+C:\New folder\Weather\bin\roslyn\csc.exe.config
+C:\New folder\Weather\bin\roslyn\csc.rsp
+C:\New folder\Weather\bin\roslyn\csi.exe
+C:\New folder\Weather\bin\roslyn\csi.exe.config
+C:\New folder\Weather\bin\roslyn\csi.rsp
+C:\New folder\Weather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder\Weather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\New folder\Weather\bin\roslyn\Microsoft.Managed.Core.targets
+C:\New folder\Weather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder\Weather\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\New folder\Weather\bin\roslyn\System.AppContext.dll
+C:\New folder\Weather\bin\roslyn\System.Collections.Immutable.dll
+C:\New folder\Weather\bin\roslyn\System.Console.dll
+C:\New folder\Weather\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\New folder\Weather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\New folder\Weather\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\New folder\Weather\bin\roslyn\System.Globalization.Calendars.dll
+C:\New folder\Weather\bin\roslyn\System.IO.Compression.dll
+C:\New folder\Weather\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\New folder\Weather\bin\roslyn\System.IO.FileSystem.dll
+C:\New folder\Weather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\New folder\Weather\bin\roslyn\System.Net.Http.dll
+C:\New folder\Weather\bin\roslyn\System.Net.Sockets.dll
+C:\New folder\Weather\bin\roslyn\System.Reflection.Metadata.dll
+C:\New folder\Weather\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\New folder\Weather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\New folder\Weather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\New folder\Weather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\New folder\Weather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\New folder\Weather\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\New folder\Weather\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\New folder\Weather\bin\roslyn\System.ValueTuple.dll
+C:\New folder\Weather\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\New folder\Weather\bin\roslyn\System.Xml.XmlDocument.dll
+C:\New folder\Weather\bin\roslyn\System.Xml.XPath.dll
+C:\New folder\Weather\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\New folder\Weather\bin\roslyn\vbc.exe
+C:\New folder\Weather\bin\roslyn\vbc.exe.config
+C:\New folder\Weather\bin\roslyn\vbc.rsp
+C:\New folder\Weather\bin\roslyn\VBCSCompiler.exe
+C:\New folder\Weather\bin\roslyn\VBCSCompiler.exe.config
+C:\New folder\Weather\bin\Antlr3.Runtime.dll
+C:\New folder\Weather\bin\AspNet.ScriptManager.jQuery.dll
+C:\New folder\Weather\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\New folder\Weather\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\New folder\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder\Weather\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\New folder\Weather\bin\Microsoft.ScriptManager.WebForms.dll
+C:\New folder\Weather\bin\Microsoft.Web.Infrastructure.dll
+C:\New folder\Weather\bin\Newtonsoft.Json.dll
+C:\New folder\Weather\bin\System.Web.Optimization.dll
+C:\New folder\Weather\bin\WebGrease.dll
+C:\New folder\Weather\bin\System.Web.Optimization.xml
+C:\New folder\Weather\bin\Newtonsoft.Json.xml
+C:\New folder\Weather\bin\Antlr3.Runtime.pdb
+C:\New folder\Weather\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\New folder\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+C:\New folder\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\New folder\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\New folder\Weather\obj\Debug\Weather.dll
+C:\New folder\Weather\obj\Debug\Weather.pdb
+Z:\bin\Weather.dll.config
+Z:\bin\Weather.dll
+Z:\bin\Weather.pdb
+Z:\bin\roslyn\csc.exe
+Z:\bin\roslyn\csc.exe.config
+Z:\bin\roslyn\csc.rsp
+Z:\bin\roslyn\csi.exe
+Z:\bin\roslyn\csi.exe.config
+Z:\bin\roslyn\csi.rsp
+Z:\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\bin\roslyn\Microsoft.Win32.Primitives.dll
+Z:\bin\roslyn\System.AppContext.dll
+Z:\bin\roslyn\System.Collections.Immutable.dll
+Z:\bin\roslyn\System.Console.dll
+Z:\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Z:\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\bin\roslyn\System.Globalization.Calendars.dll
+Z:\bin\roslyn\System.IO.Compression.dll
+Z:\bin\roslyn\System.IO.Compression.ZipFile.dll
+Z:\bin\roslyn\System.IO.FileSystem.dll
+Z:\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\bin\roslyn\System.Net.Http.dll
+Z:\bin\roslyn\System.Net.Sockets.dll
+Z:\bin\roslyn\System.Reflection.Metadata.dll
+Z:\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\bin\roslyn\System.ValueTuple.dll
+Z:\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\bin\roslyn\System.Xml.XPath.dll
+Z:\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\bin\roslyn\vbc.exe
+Z:\bin\roslyn\vbc.exe.config
+Z:\bin\roslyn\vbc.rsp
+Z:\bin\roslyn\VBCSCompiler.exe
+Z:\bin\roslyn\VBCSCompiler.exe.config
+Z:\bin\Antlr3.Runtime.dll
+Z:\bin\AspNet.ScriptManager.jQuery.dll
+Z:\bin\Microsoft.AspNet.FriendlyUrls.dll
+Z:\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Z:\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\bin\Microsoft.ScriptManager.MSAjax.dll
+Z:\bin\Microsoft.ScriptManager.WebForms.dll
+Z:\bin\Microsoft.Web.Infrastructure.dll
+Z:\bin\Newtonsoft.Json.dll
+Z:\bin\System.Net.Http.Formatting.dll
+Z:\bin\System.Web.Http.dll
+Z:\bin\System.Web.Http.WebHost.dll
+Z:\bin\System.Web.Optimization.dll
+Z:\bin\WebGrease.dll
+Z:\bin\System.Net.Http.Formatting.xml
+Z:\bin\System.Web.Http.xml
+Z:\bin\System.Web.Http.WebHost.xml
+Z:\bin\System.Web.Optimization.xml
+Z:\bin\Newtonsoft.Json.xml
+Z:\bin\Antlr3.Runtime.pdb
+Z:\bin\Microsoft.AspNet.FriendlyUrls.xml
+Z:\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\obj\Debug\Weather.csproj.AssemblyReference.cache
+Z:\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+Z:\obj\Debug\Weather.csproj.CopyComplete
+Z:\obj\Debug\Weather.dll
+Z:\obj\Debug\Weather.pdb

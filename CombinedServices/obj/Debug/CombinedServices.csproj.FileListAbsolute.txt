@@ -1,0 +1,21 @@
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\bin\CombinedServices.dll.config
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\bin\CombinedServices.dll
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\bin\CombinedServices.pdb
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\obj\Debug\CombinedServices.csproj.AssemblyReference.cache
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\obj\Debug\CombinedServices.csproj.CoreCompileInputs.cache
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\obj\Debug\CombinedServices.dll
+C:\Users\Xfini\source\repos\CSE445\Project 3\CombinedServices\obj\Debug\CombinedServices.pdb
+Z:\Page9\bin\CombinedServices.dll.config
+Z:\Page9\obj\Debug\CombinedServices.csproj.AssemblyReference.cache
+Z:\Page9\obj\Debug\CombinedServices.csproj.CoreCompileInputs.cache
+Z:\Page9\obj\Debug\CombinedServices.dll
+Z:\Page9\obj\Debug\CombinedServices.pdb
+Z:\Page9\bin\CombinedServices.dll
+Z:\Page9\bin\CombinedServices.pdb
+D:\TestTestTest\obj\Debug\CombinedServices.csproj.AssemblyReference.cache
+D:\TestTestTest\obj\Debug\CombinedServices.csproj.CoreCompileInputs.cache
+D:\TestTestTest\obj\Debug\CombinedServices.dll
+D:\TestTestTest\obj\Debug\CombinedServices.pdb
+D:\TestTestTest\bin\CombinedServices.dll.config
+D:\TestTestTest\bin\CombinedServices.dll
+D:\TestTestTest\bin\CombinedServices.pdb
